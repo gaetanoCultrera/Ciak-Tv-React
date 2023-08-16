@@ -1,6 +1,6 @@
 import { memo, FC } from "react";
 import { Box, Card, CardContent, CardMedia, Typography } from "@mui/material";
-import { CustomDataCard } from "../../../interfaces/";
+import { CustomDataCard } from "../../../interfaces/IResponseMovie";
 import { Link } from "react-router-dom";
 import { contentCardBox } from "./style";
 import { contentCardStyle } from "../../style/GlobalStyle";
